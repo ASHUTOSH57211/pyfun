@@ -1,1 +1,5 @@
 print("what is your name andd two numbers")
+print("my name is ashutosh prasad")
+a= input()
+b = input()
+print(a+b)
